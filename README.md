@@ -2,8 +2,6 @@
 
 A classic Connect4 game built using Python, VS Code, where two players compete to connect four of their pieces in a line. The game can be played in two modes: Player vs Player (PvP) and Player vs Computer (PvC). This project offers a clean, interactive UI with a grid-based board and dynamic game state management. The game is designed for fun, quick matches, and can be easily expanded or modified for additional features.
 
-
-
 ## Features
 
 - **Two Game Modes**: 
@@ -26,13 +24,13 @@ A classic Connect4 game built using Python, VS Code, where two players compete t
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/connect4-game.git
+   git clone https://github.com/pankajkr-143/Connect4-Game.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd connect4-game
+   cd Connect4-Game
    ```
 
 3. Install dependencies (if applicable):
@@ -66,8 +64,7 @@ A classic Connect4 game built using Python, VS Code, where two players compete t
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (React/Vanilla JS) [Modify based on the technology you used].
-- **Backend**: [if any, specify your backend technologies like Flask, Node.js, etc.].
+- **Frontend**: HTML, CSS, JavaScript (React/Vanilla JS) 
 - **AI Algorithm**: Basic AI for computer vs player mode using Minimax (or any other AI technique).
   
 ## Screenshots
